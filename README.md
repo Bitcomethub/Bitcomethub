@@ -13,7 +13,7 @@ Bu hesap, stüdyonun geliştirdiği ürünlerin kaynak kodunu barındırır.
 - [Vetto](https://vetto.app) — araç alırken ekspertiz raporunu ve motor sesini yorumlayan asistan
 - [İzsilme](https://izsilme.com) — dijital ayak izi taraması ve kaldırma talebi
 - [MiamiLi](https://miamili.com) — Miami emlak arama ve danışmanlık platformu
-- [Pasiflow](https://www.pasiflow.com) — pasif gelir akışları için içerik ve araç sitesi
+- [Pasiflow](https://www.pasiflow.com) — ABD'de devlet kira garantili anahtar teslim evler
 - [VetPati](https://www.vetpati.app) — kedi ve köpek sağlığı için yapay zeka asistanı
 
 **Mobil uygulamalar (App Store)**
