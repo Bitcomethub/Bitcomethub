@@ -29,4 +29,4 @@ Her proje ayrı bir ürün gibi ele alınır: içerik ve iddialar kaynaklandır�
 yayına alınan her sayfa gerçek ve çalışır durumdadır, tasarım şablondan değil
 işletmenin kendisinden türetilir.
 
-İletişim: [vitrinai.co](https://vitrinai.co) · [WhatsApp](https://wa.me/905372688319)
+İletişim: [vitrinai.co](https://vitrinai.co) · [LinkedIn](https://www.linkedin.com/company/vitrinai-digital-studio) · [WhatsApp](https://wa.me/905372688319)
